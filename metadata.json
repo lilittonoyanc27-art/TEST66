@@ -1,0 +1,6 @@
+{
+  "name": "Pretérito Indefinido - Guide for Armenians",
+  "description": "Interactive system for Armenian speakers to master Spanish Pretérito Indefinido tense with 6 interactive games and clear grammatical explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
